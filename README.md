@@ -54,5 +54,8 @@ To change the font color
   - click on the cell
   - On the Text Box properties on the left, select Font color drop down button
   - select expression
-  - Under program flow, select =IIF( enter e.g salesprice>0,"green", "black") and close
-    
+  - Under program flow, select =IIF( enter e.g ((salesprice-budgetprice)>0,"green", "red") and close
+  - Do the same for the other cells
+
+# Sorting
+  - 
