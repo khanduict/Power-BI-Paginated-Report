@@ -29,9 +29,9 @@ Parameter is to dynamically data filtering, report customisation
   - Finally Run the report
 
 # Total 
-    - Right click on cell -> select Expression
-    - select "field dataset"
-    - type =SUM( double click on the particular data e.g actual price and then close the parenthesis ) and then click OK
-    - Lets do the same for TOTAL -> right click on the above cell -> select expression -> copy the query
-    - Right click on the total cell -> select expression -> paste the above copied query -> OK
-    - Finally Run
+  - Right click on cell -> select Expression
+  - select "field dataset"
+  - type =SUM( double click on the particular data e.g actual price and then close the parenthesis ) and then click OK
+  - Lets do the same for TOTAL -> right click on the above cell -> select expression -> copy the query
+  - Right click on the total cell -> select expression -> paste the above copied query -> OK
+  - Finally Run
