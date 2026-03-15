@@ -15,13 +15,13 @@ Parameter is to dynamically data filtering, report customisation
     - Expand the table -> You will see "copy query" -> copy that
    
   - Now Go back to Power BI Report Builder
-   - Right click -> Add dataset
+    - Right click -> Add dataset
     - Give the name "Categorydataset"
     - select "data source" from the dropdown
     - Paste the query which you copied from power bi desktop
     - Click on validate query to make sure it works and click OK
 
-   - Now go to Parameter Folder in the power bi Report builder left pane
+  - Now go to Parameter Folder in the power bi Report builder left pane
     - Incase if there is a default parameter already created -> right click on that particular parameter - select parameter properties
     - Incase if there is no default parameter, then right click on the Parameter folder -> Add Parameter
     - Select Default values -> Get values from a query  -> select dataset folder and value field which you just created and then click OK
